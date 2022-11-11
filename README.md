@@ -6,27 +6,26 @@
 - React
 - Redux
 - Tailwind css
-- VSCode
 
 
 
 
 ## Funcionalidades 
 
-- Autenticacion con Simple JWT
-- Login
+- Login - Simple JWT
 - Logout
-- Registro de usuarios
-- Actualizar perfil de usuario
+- Registro de usuarios - Simple JWT
 - Actualizar perfil de usuario
 - Usuario personalizado con biografia, email, username y foto de perfil
-- Permisos de usuario (para que otros usuarios no borren o editen post de otros usuarios)
-- Actualizar Publicaciones
-- Eliminar Publicaciones
-- Leer Todas las publicaciones de un usario en su perfil
-- Leer Todas las publicaciones creadas en el feed(home page)
-- Seccion de comentarios
+- Permisos de usuario (para que otros usuarios no borren o editen publicaciones de otros usuarios)
+- Crear publicaciones
+- Leer publicaciones
+- Actualizar publicaciones
+- Eliminar publicaciones
 - Ver Perfil de otro usuarios
+- Leer Todas las publicaciones de un usuario en su perfil
+- Crear comentarios
+- Leer comentarios de otros usuarios
 
 ##
 
