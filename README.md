@@ -1,5 +1,7 @@
 # Foro-Django-React
 
+## Video de YouTube ==> https://www.youtube.com/watch?v=_rAr3OuDcUg
+
 ## Este projecto se creo con las siguientes tecnologias
 
 - Django Rest Framework
